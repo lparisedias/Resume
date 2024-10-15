@@ -842,5 +842,8 @@ footer{
 }
 
 .front-portrait {
+    display:inline-block;
     text-align: center;
+    height:30%;
+    width:30%;
 }
